@@ -17,6 +17,7 @@ The major aim of thie project is to gain insight into the sales data of Pizzas t
 📈 Average Order Value  
 📦 Average Pizzas Per Order  
 ## 📂 Dataset Description
+![image Alt](https://github.com/Piyush0415/PizzaSalesAnalytics/blob/5278eeec243a2044b4946011f24ec8beb0d288ea/pizza_sales_dashboard.png)
 ### The dataset contains:
 - orders – Order date and time
 - order_details – Quantity per pizza
