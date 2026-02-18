@@ -42,5 +42,5 @@ The major aim of thie project is to gain insight into the sales data of Pizzas t
 This project demonstrates strong data analysis skills using SQL and visualization tools. It highlights the ability to transform raw transactional data into meaningful business insights.
 ## 🤝 Connect With Me
 👤 Piyush Agarwal  
-Associate Data Scientist | SQL | Python | Power BI | Finance Analytics  
+Associate Data Scientist | SQL | Python | Power BI | Data Analytics  
 Linkedin : www.linkedin.com/in/piyush-agarwal-1a93003a1
